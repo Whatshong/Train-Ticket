@@ -1,6 +1,6 @@
 # Train-Ticket
 
-this is my first project using C language
+this is my first project using C language. Which of the features is :
 
 1. Schedule Trains:
 
